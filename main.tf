@@ -1,4 +1,4 @@
-#it is main configuration file
+#it is main configuration file in default workspace
 
 provider "aws" {            #CSP name
     region = "us-east-1" 
